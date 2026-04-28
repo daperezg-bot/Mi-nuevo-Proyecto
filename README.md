@@ -28,9 +28,9 @@ este con una tarjeta de scanner permite registrar cada producto que sale de laem
 
 ¡Las imágenes harán que tu README se vea mejor!
 Una vez que subas una imagen a tu repositorio, puedes enlazarla así (reemplaza la URL con la ruta del archivo si subiste la imagen a GitHub):
-![inventario](https://www.transeop.com/blog/inventario-digital-que-es-caracteristicas/1159/)
+![Gato](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
 
 Si necesitas redimensionar imágenes, debes usar una etiqueta HTML, así:
-<img src="https://www.transeop.com/blog/inventario-digital-que-es-caracteristicas/1159/" width="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
 
-
+Así es como creas ejemplos de código:
