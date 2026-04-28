@@ -7,6 +7,7 @@ creado por Reaktor Innovations y la Universidad de Helsinki.
 Proyecto final para el curso Building AI
 
 ## Resumen
+##Resumen
 
 Describe brevemente en 2-3 oraciones de qué trata tu proyecto. ¡Alrededor de 250 caracteres es una buena longitud!
 Este proyecto Trata de un sistema de inventario 
